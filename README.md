@@ -9,7 +9,7 @@ This section guides to use to Syncfusion file format ASP.NET Core (EJ1) product 
 * [Documentation](#documentation)
 * [License](#license)
 * [Using the examples](#using-the-examples)
-* [How to run the samples](#how-to-run-the-samples)
+* [How to run the samples](#how-to-run-the-samples) 
 * [Controls catalog](#controls-catalog)
 * [Demos](#demos)
 * [Release Notes](#release-notes)
