@@ -1,0 +1,10 @@
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\bin\Debug\netcoreapp2.0\samplebrowser_core_2_0.deps.json
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\bin\Debug\netcoreapp2.0\samplebrowser_core_2_0.runtimeconfig.json
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\bin\Debug\netcoreapp2.0\samplebrowser_core_2_0.runtimeconfig.dev.json
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\bin\Debug\netcoreapp2.0\samplebrowser_core_2_0.dll
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\bin\Debug\netcoreapp2.0\samplebrowser_core_2_0.pdb
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\obj\Debug\netcoreapp2.0\samplebrowser_core_2_0.csproj.CoreCompileInputs.cache
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\obj\Debug\netcoreapp2.0\samplebrowser_core_2_0.AssemblyInfoInputs.cache
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\obj\Debug\netcoreapp2.0\samplebrowser_core_2_0.AssemblyInfo.cs
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\obj\Debug\netcoreapp2.0\samplebrowser_core_2_0.dll
+D:\Samples_17.3.0.14\FileFormats\ASPNETCORE\IOsamplebrowser_core_2_0\obj\Debug\netcoreapp2.0\samplebrowser_core_2_0.pdb
