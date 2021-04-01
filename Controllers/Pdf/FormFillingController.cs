@@ -66,7 +66,6 @@ namespace samplebrowser.Controllers
                 PdfLoadedDocument doc = new PdfLoadedDocument(file);
 
                 PdfLoadedForm form = doc.Form;
-
                 // fill the fields from the first page
                 (form.Fields["f1-1"] as PdfLoadedTextBoxField).Text = "1";
                 (form.Fields["f1-2"] as PdfLoadedTextBoxField).Text = "1";
