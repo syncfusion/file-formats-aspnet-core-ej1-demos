@@ -119,4 +119,4 @@ Refer the Syncfusion file format ASP.NET Core (EJ1) Product Release Notes in [on
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
 
-<p>Copyright © 2001-2022 Syncfusion, Inc. Updated on 2022-06-30 at precisely 15:58:14 EST.</p>
+<p>Copyright © 2001-2022 Syncfusion, Inc. Updated on 2022-06-30 at precisely 16:05:37 EST.</p>
